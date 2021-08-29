@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Utility
+Bundle-SymbolicName: project.utility
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: project.utility
+Bundle-RequiredExecutionEnvironment: JavaSE-11
